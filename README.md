@@ -1,5 +1,5 @@
 #  About Me:
-## 👋 Hi, I'm Mati Joseph<br><br>I'm a budding software engineer with a passion for building web apps. Currently focused on becoming a **backend developer**, but I’ve also got hands-on experience with **HTML**, **CSS**, **JavaScript**, and **React** on the frontend.<br><br>🔧 I'm learning every day, improving my craft, and contributing to projects that challenge me.<br><br>🛠️ Tech Stack:  <br>- Frontend: React, HTML, CSS, JS  <br>-   <br>- Tools: Git, GitHub, VS Code, Linux (Ubuntu)<br><br>📫 Let's connect or collaborate — I'm always down to learn or build something cool.<br>
+## 👋 Hi, I'm Mati Joseph<br><br>I'm a  software engineer with a passion for building web apps. Currently focused on becoming a **backend developer**, but I’ve also got hands-on experience with **HTML**, **CSS**, **JavaScript**, and **React** on the frontend.<br><br>🔧 I'm learning every day, improving my craft, and contributing to projects that challenge me.<br><br>🛠️ Tech Stack:  <br>- Frontend: React, HTML, CSS, JS  <br>-   <br>- Tools: Git, GitHub, VS Code, Linux (Ubuntu)<br><br>📫 Let's connect or collaborate — I'm always down to learn or build something cool.<br>
 
 
 ## 🌐 Socials:
